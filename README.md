@@ -1,9 +1,8 @@
 # ✈️ Flight Booking Management System
 
 ## 📌 Overview
-The **Flight Booking Management System** is a web-based application designed to simplify the process of searching, booking, and managing flight reservations.  
-It provides users with an intuitive interface to browse available flights, check schedules, and confirm bookings securely.
-
+The **Flight Booking Management System** is a cli-based application designed to simplify the process of searching, booking, and managing flight reservations.  
+It is just a simple project that I built on my foundation year mainly on C programming language. 
 ---
 
 ## 🚀 Features
