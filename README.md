@@ -7,7 +7,7 @@ It is just a simple project that I built on my foundation year mainly on C progr
 
 ## 🚀 Features
 - 🔍 **Search Flights** by destination, date, and airline  
-- 📅 **View Flight Schedules** with real-time availability  
+- 📅 **View Flight Schedules** with calendar availability  
 - 📝 **Book Tickets** with passenger details and seat selection   
 - 📂 **Manage Bookings** (view, update, cancel reservations)   
 ---
