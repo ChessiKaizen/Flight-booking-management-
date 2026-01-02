@@ -8,13 +8,9 @@ It is just a simple project that I built on my foundation year mainly on C progr
 ## 🚀 Features
 - 🔍 **Search Flights** by destination, date, and airline  
 - 📅 **View Flight Schedules** with real-time availability  
-- 📝 **Book Tickets** with passenger details and seat selection  
-- 💳 **Payment Integration** (optional: PayPal, Stripe, etc.)  
-- 📂 **Manage Bookings** (view, update, cancel reservations)  
-- 👨‍💻 **Admin Dashboard** for managing flights, users, and bookings  
-
+- 📝 **Book Tickets** with passenger details and seat selection   
+- 📂 **Manage Bookings** (view, update, cancel reservations)   
 ---
-
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
